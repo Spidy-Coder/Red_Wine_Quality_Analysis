@@ -12,4 +12,4 @@ I have mentioned comments in the same ipnb file for your reference and better un
 A special thanks to Terense Shin for uploading useul content for data science and ML. I have used it as my reference for this model building.
 https://terenceshin.medium.com/
 
-Visit the above url if you want to learn more about this topic and furthur more.
+Visit the above url if you want to know more about him and furthur more.
